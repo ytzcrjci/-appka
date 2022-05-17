@@ -1,0 +1,31 @@
+.modal {
+    position: fixed;
+    background-color: rgb(235, 168, 168);
+    width: 344px;
+    height: 100px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    filter: drop-shadow(-4px 4px 10px rgba(0, 0, 0, 0.2));
+    animation: 2s dropdown 1s;
+}
+
+@keyframes dropdown {
+    0% {
+        top: -100%;
+        visibility: 0;
+    }
+    50% {
+        top: 10%;
+    }
+    70% {
+        top: 20%
+    }
+    100% {
+        visibility: 0;
+        display: none;
+    }
+}

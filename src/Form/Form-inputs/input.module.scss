@@ -1,0 +1,36 @@
+.loginInputLogin {
+    width: 344px;
+    height: 56px;
+    padding: 0 0 0 60px;
+    box-sizing: border-box;
+    border: 1px solid #77838f;
+    filter: drop-shadow(-4px 4px 10px rgba(0, 0, 0, 0.05));
+    border-radius: 10px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    position: relative;
+    color: #232233;
+    background-image: url('../../images/login.png');
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: center left 20px;
+}
+.loginInputPassword {
+    background-image: url('../../images/password.png');
+    width: 344px;
+    height: 56px;
+    padding: 0 0 0 60px;
+    box-sizing: border-box;
+    border: 1px solid #77838f;
+    filter: drop-shadow(-4px 4px 10px rgba(0, 0, 0, 0.05));
+    border-radius: 10px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    position: relative;
+    color: #232233;
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: center left 20px;
+}
