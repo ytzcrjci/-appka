@@ -1,5 +1,7 @@
 # Appka - trzeci projekt
 
+//Bez mobilki
+
 Dane do logowania - login: admin, hasło: admin
 
 Api serwera dostępne na githubie: https://github.com/CebulMaciej/nodeSimple 
