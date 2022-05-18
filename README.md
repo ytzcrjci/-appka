@@ -1,6 +1,6 @@
 # Appka - trzeci projekt
 
-//Bez mobilki
+//Bez mobilki, reactJS
 
 Dane do logowania - login: admin, hasło: admin
 
